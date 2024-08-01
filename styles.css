@@ -140,7 +140,7 @@ footer {
 .fade-out {
     animation: fadeOut 1s forwards;
 }
-/* Modal Styles */
+
 .modal {
     display: none; 
     position: fixed; 
